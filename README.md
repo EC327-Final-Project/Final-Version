@@ -6,7 +6,7 @@ This code is comprised of each team member's combined individual portions. Note 
 
 Install the zip file and unload its contents in a specific folder (e.g., a folder titled EC327 project). Verify that everything (images, makefile, stoned_age.cpp) has been installed in the correct folder. After, use terminal to change the directory to that specific folder you just created.
 
-# How To Use application
+# How To Use Application
 
 After changing the directory to your specific folder, run the makefile included in the document. If it does not work, run g++ stoned_age.cpp -o stoned_age -lsfml-graphics -lsfml-window -lsfml-system -lsfml-network first and then run stoned_age.
 
