@@ -4944,7 +4944,7 @@ int main() {
                     while (window.pollEvent(event)) 
                     {
 
-                      if (event.type == sf::Event::Closed) //function for close needed
+                      if (event.type == sf::Event::Closed) 
                       {
                         window.close();
                       }
@@ -4962,7 +4962,7 @@ int main() {
                       }
 
                     }
-                    if (count_home > 0) //Implement this in a function
+                    if (count_home > 0) 
                     {
                     window.clear(sf::Color(137, 197, 125));
                     break;
@@ -4989,7 +4989,7 @@ int main() {
                     while (window.pollEvent(event)) 
                     {
 
-                      if (event.type == sf::Event::Closed) //function for close needed
+                      if (event.type == sf::Event::Closed) 
                       {
                         window.close();
                       }
@@ -5007,7 +5007,7 @@ int main() {
                       }
 
                     }
-                    if (count_home > 0) //Implement this in a function
+                    if (count_home > 0) 
                     {
                     window.clear(sf::Color(137, 197, 125));
                     break;
@@ -5033,7 +5033,7 @@ int main() {
                     while (window.pollEvent(event)) 
                     {
 
-                      if (event.type == sf::Event::Closed) //function for close needed
+                      if (event.type == sf::Event::Closed) 
                       {
                         window.close();
                       }
@@ -5051,7 +5051,7 @@ int main() {
                       }
 
                     }
-                    if (count_home > 0) //Implement this in a function
+                    if (count_home > 0) 
                     {
                     window.clear(sf::Color(137, 197, 125));
                     break;
@@ -5078,7 +5078,7 @@ int main() {
                     while (window.pollEvent(event)) 
                     {
 
-                      if (event.type == sf::Event::Closed) //function for close needed
+                      if (event.type == sf::Event::Closed) 
                       {
                         window.close();
                       }
@@ -5096,7 +5096,7 @@ int main() {
                       }
 
                     }
-                    if (count_home > 0) //Implement this in a function
+                    if (count_home > 0)
                     {
                     window.clear(sf::Color(137, 197, 125));
                     break;
@@ -5123,7 +5123,7 @@ int main() {
                     while (window.pollEvent(event)) 
                     {
 
-                      if (event.type == sf::Event::Closed) //function for close needed
+                      if (event.type == sf::Event::Closed)
                       {
                         window.close();
                       }
@@ -5141,7 +5141,7 @@ int main() {
                       }
 
                     }
-                    if (count_home > 0) //Implement this in a function
+                    if (count_home > 0) 
                     {
                     window.clear(sf::Color(137, 197, 125));
                     break;
@@ -5168,7 +5168,7 @@ int main() {
                     while (window.pollEvent(event)) 
                     {
 
-                      if (event.type == sf::Event::Closed) //function for close needed
+                      if (event.type == sf::Event::Closed) 
                       {
                         window.close();
                       }
@@ -5186,7 +5186,7 @@ int main() {
                       }
 
                     }
-                    if (count_home > 0) //Implement this in a function
+                    if (count_home > 0)
                     {
                     window.clear(sf::Color(137, 197, 125));
                     break;
@@ -5213,7 +5213,7 @@ int main() {
                     while (window.pollEvent(event)) 
                     {
 
-                      if (event.type == sf::Event::Closed) //function for close needed
+                      if (event.type == sf::Event::Closed) 
                       {
                         window.close();
                       }
@@ -5231,7 +5231,7 @@ int main() {
                       }
 
                     }
-                    if (count_home > 0) //Implement this in a function
+                    if (count_home > 0) 
                     {
                     window.clear(sf::Color(137, 197, 125));
                     break;
@@ -5258,7 +5258,7 @@ int main() {
                     while (window.pollEvent(event)) 
                     {
 
-                      if (event.type == sf::Event::Closed) //function for close needed
+                      if (event.type == sf::Event::Closed)
                       {
                         window.close();
                       }
@@ -5276,7 +5276,7 @@ int main() {
                       }
 
                     }
-                    if (count_home > 0) //Implement this in a function
+                    if (count_home > 0) 
                     {
                     window.clear(sf::Color(137, 197, 125));
                     break;
@@ -5285,21 +5285,18 @@ int main() {
               
                 } // end of if state11 statement   
 
-                //To here   
+              }
 
-                }
+            } //end of the if count five
 
-              } //end of the if count five
-
-//NORTHEAST ENDS HERE
-
-            }
+              //NORTHEAST ENDS HERE
 
           }
+
         }
+      }
             else
              location.setFillColor(sf::Color::White);
-  
       }
     }
   }
