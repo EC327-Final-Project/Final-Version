@@ -414,7 +414,7 @@ int main() {
 
   std::vector<std::string> Region_NorthEast = {
     "Maine",
-    "Massassachusetts",
+    "Massachusetts",
     "Rhode Island",
     "Connecticut",
     "New Hampshire",
@@ -1649,7 +1649,7 @@ int main() {
               test.setOutlineThickness(0.5);
               test.setPosition(25, 100);
               test.setCharacterSize(18);
-              test.setString("The main usage of marijuana in the medical aspect\nis for pain control!\n ~Lessens tremors in Parkinso's disease\n ~Also been used to help treat\nFibromyalgia, endometriosis, \nand intersitital cystitis\nThere has also been research in helping PTSD in veterans\nMarijuana can also be used to help nausea and appetite");
+              test.setString("The main usage of marijuana in the medical aspect\nis for pain control!\n ~Lessens tremors in Parkinson's disease\n ~Also been used to help treat\nFibromyalgia, endometriosis, \nand intersitital cystitis\nThere has also been research in helping PTSD in veterans\nMarijuana can also be used to help nausea and appetite");
               window.draw(test);
               window.display();
               while(window.pollEvent(event)) {
