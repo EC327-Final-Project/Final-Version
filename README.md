@@ -1,6 +1,6 @@
 # Final-Version
 
-This code is comprised of each team member's combined individual portions. Note that there are also all the images we use as well as a reference to a function we sourced from someone else, these sources are defined in our project report. The final file that contains our submission is titled "stoned_age.cpp". Please download all the images that are in the file in order for the application to function correctly.
+This code is comprised of each team member's combined individual portions. Note that there are also all the images we use as well as a reference to a button function we sourced from TermSpar et al., these sources are defined in our project report. The final file that contains our submission is titled "stoned_age.cpp". Please download all the images that are in the file in order for the application to function correctly.
 
 # Installation Instructions
 
